@@ -1,0 +1,23 @@
+Nome completo: João Lucas de Castro Batista
+Comandos do git utilizados:
+git init
+git clone  https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead
+git add .\texto.txt
+git commit -m "arquivo texto.txt adicionado"
+git branch -m master main //mudar o nome para main
+git branch feature-1
+git branch
+git checkout feature-1
+git add .\texto.txt
+git commit -m "arquito texto.txt alterado"
+git checkout main
+git add .\texto.txt
+git commit -m "arquivo texto.txt alterado no main"
+git merge feature-1
+git branch
+git add .\texto.txt
+git commit -m "merge corrigido"
+git branch add-comandos
+git checkout add-comandos
+git add .\comandos.txt
+git commit -m "arquivo comandos.txt adicionado"
