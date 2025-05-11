@@ -1,1 +1,5 @@
-linha de conteudo alterado main
+<<<<<<< HEAD
+linha de conteudo alterado corrigido
+=======
+linha de conteudo alterado corrigido
+>>>>>>> feature-1
